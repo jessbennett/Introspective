@@ -1,0 +1,9 @@
+**/node_modules/**
+**/dist/**
+**/storybook-static/**
+**/coverage/**
+**/.git/**
+**/public/**
+!.eslintrc.js
+**/serviceWorker.js
+**/git-build-ref.js
