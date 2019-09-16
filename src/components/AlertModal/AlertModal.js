@@ -1,4 +1,3 @@
-// eslint-disable-next-line react/jsx-tag-spacing
 import React from "react";
 import PropTypes from "prop-types";
 
