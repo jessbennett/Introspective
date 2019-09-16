@@ -1,4 +1,3 @@
-// eslint-disable-next-line react/jsx-tag-spacing
 import React, { Component } from "react";
 
 import "./App.css";
