@@ -13,7 +13,7 @@ const routing = (
     <div>
       <ul>
         <li>
-          <Link to="/">welcome</Link>
+          <Link to="/welcome">welcome</Link>
         </li>
         <li>
           <Link to="/users">users</Link>
@@ -22,7 +22,7 @@ const routing = (
       <switch>
         <Route exact path="/" component={App} />
         <Route exact path="/welcome" component={WelcomeModal} />
-        <Route path="/users" component={Users} />
+        <Route exact path="/users" component={Users} />
       </switch>
     </div>
   </Router>
