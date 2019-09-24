@@ -1,0 +1,10 @@
+.paper {
+  width: 420px;
+  position: absolute;
+  /* background-color: theme.palette.background.paper; */
+  /* box-shadow: theme.shadows[4]; */
+  /* padding: theme.spacing.unit * 3; */
+  padding-top: 5px;
+  border-radius: 4px;
+  outline: none;
+}
