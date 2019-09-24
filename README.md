@@ -28,10 +28,7 @@ introspective/
 
 ## Running Storybook
 
-``
-yarn storybook
-
-``
+`yarn storybook`
 
 ### `npm start`
 
@@ -47,4 +44,4 @@ The page will reload if you make edits.<br>
 ### Linting & Testing
 
 - [CodeStyle & Linting](https://eslint.org/)
-- [Testing with Jest](docs/rcc/testing-with-jest.md)
+- [Testing with Jest](https://jestjs.io/en/)
