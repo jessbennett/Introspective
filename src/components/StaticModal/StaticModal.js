@@ -17,14 +17,6 @@ const styles = {
     paddingRight: 25,
     paddingLeft: 25
   },
-  noAudioContainer: {
-    maxWidth: 628,
-    backgroundColor: "#ffffff",
-    paddingTop: 30,
-    paddingBottom: 30,
-    paddingRight: 25,
-    paddingLeft: 35
-  },
   title: {
     fontFamily: "SlatePro-Medium",
     fontSize: 24,
@@ -86,9 +78,6 @@ const StaticModal = props => {
     customTextStyle,
     customButtonStyle,
     audio,
-    locale,
-    audioEN,
-    audioES,
     btnName,
     title,
     onClick,
@@ -109,20 +98,6 @@ const StaticModal = props => {
         sm={8}
         className={audio ? classes.container : classes.noAudioContainer}
       >
-        {/* {audio ? (
-					<AudioButton
-						alt=" Exam Instructions"
-						locale={locale}
-						src={{
-							// eslint-disable-next-line camelcase
-							en_US: audioEN,
-							// eslint-disable-next-line camelcase
-							es_US: audioES
-						}}
-					/>
-				) : (
-					''
-				)} */}
         <Typography
           variant="h1"
           className={audio ? classes.title : classes.noAudioTitle}
@@ -158,9 +133,6 @@ StaticModal.propTypes = {
   customTextStyle: PropTypes.object,
   customButtonStyle: PropTypes.object,
   audio: PropTypes.bool.isRequired,
-  locale: PropTypes.string,
-  audioES: PropTypes.string,
-  audioEN: PropTypes.string,
   btnName: PropTypes.string,
   title: PropTypes.string,
   onClick: PropTypes.func,
@@ -174,9 +146,6 @@ StaticModal.propTypes = {
 
 StaticModal.defaultProps = {
   customStyle: {},
-  audioEN: "",
-  audioES: "",
-  locale: null,
   customTextStyle: {},
   customButtonStyle: {},
   btnName: "Default",
