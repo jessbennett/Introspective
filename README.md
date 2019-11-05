@@ -2,12 +2,16 @@
 
 A "fun" interactive project to keep our UI skills sharp
 
-### Prerequisites
+### Pre-Requisites
 
 What you need to run this application
 
 ```
-Node `^12.10.0` & Npm `^6.9.0`
+Node ^12.10.0
+```
+
+```
+Npm ^6.9.0
 ```
 
 ## Installation
