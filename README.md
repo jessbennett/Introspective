@@ -1,47 +1,38 @@
+# Introspective
+
+A "fun" interactive project to keep our UI skills sharp
+
+### Prerequisites
+
+What you need to run this application
+
+```
+Node `^12.10.0` & Npm `^6.9.0`
+```
+
+## Installation
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-> A fun interactive project to laugh at later
+### Run the App 👩🏿‍💻
 
-## Project and README are currently under constrcution 👩🏿‍💻 ⚒
-
-## Folder Structure
-
-After cloning, your project should look like this:
-
-```
-introspective/
-  README.md
-  node_modules/
-  package.json
-  public/
-    index.html
-  src/
-    components
-    pages
-    views
-    App.css
-    App.js
-    App.test.js
-    index.css
-    index.js
+```bash
+npm start
 ```
 
-## Running Storybook
+### Storybook 📖
 
-`yarn storybook`
+```bash
+yarn storybook
+```
 
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-
-## Pre-Requisites
-
-- Node `^12.10.0` & Npm `^6.9.0`
-
-### Linting & Testing
+## Linting & Testing
 
 - [CodeStyle & Linting](https://eslint.org/)
 - [Testing with Jest](https://jestjs.io/en/)
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
