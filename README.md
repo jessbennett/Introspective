@@ -1,4 +1,4 @@
-# Introspective
+# Introspective 🔍
 
 A "fun" interactive project to keep our UI skills sharp
 
