@@ -1,6 +1,6 @@
 # Introspective 🔍
 
-A "fun" interactive project to keep our UI skills sharp
+A "fun" interactive project to keep our UI skills sharp, testing git.
 
 ### Pre-Requisites
 
