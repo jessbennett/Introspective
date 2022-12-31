@@ -10,15 +10,15 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.1.0",
-    "react-scripts": "0.9.x"
+    "react-scripts": "5.0.x"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
     "@storybook/addon-actions": "^5.2.0",
     "@storybook/addon-links": "^5.2.0",
     "@storybook/addons": "^5.2.0",
-    "@storybook/react": "^5.2.0",
-    "babel-loader": "^8.0.6"
+    "@storybook/react": "^6.5.15",
+    "babel-loader": "^8.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
