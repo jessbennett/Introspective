@@ -1,4 +1,4 @@
-# Introspective 🔍
+# Introspective 🧘🏾‍♀️
 
 A "fun" interactive project to keep our UI skills sharp, testing git.
 
@@ -18,24 +18,24 @@ Npm ^6.9.0
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-### Run the App 👩🏿‍💻
+### Run the App ⌛️
 
 ```bash
 npm start
 ```
 
-### Storybook 📖
+### Storybook 👩🏾‍⚖️
 
 ```bash
 yarn storybook
 ```
 
-## Linting & Testing
+## Linting & Testing 🧪
 
 - [CodeStyle & Linting](https://eslint.org/)
 - [Testing with Jest](https://jestjs.io/en/)
 
-## Contributing
+## Contributing 🤖
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
