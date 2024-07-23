@@ -27,7 +27,7 @@ npm start
 ### Storybook 👩🏾‍⚖️
 
 ```bash
-yarn storybook
+yarn start
 ```
 
 ## Linting & Testing 🧪
