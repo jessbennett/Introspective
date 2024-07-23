@@ -32,6 +32,10 @@ yarn start
 
 ## Linting & Testing 🧪
 
+```bash
+yarn run test
+```
+
 - [CodeStyle & Linting](https://eslint.org/)
 - [Testing with Jest](https://jestjs.io/en/)
 
