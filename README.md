@@ -37,7 +37,7 @@ yarn run test
 ```
 
 - [CodeStyle & Linting](https://eslint.org/)
-- [Testing with Jest](https://jestjs.io/en/)
+- [Testing with Jest](https://jes``tjs.io/en/)
 
 ## Contributing 🤖
 
